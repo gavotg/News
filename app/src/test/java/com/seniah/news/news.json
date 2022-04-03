@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Matt Stevens",
+      "title": "Oscars Producer Did Not Want Will Smith Physically Removed After Slap - The New York Times",
+      "description": "Will Packer, the producer of the telecast, said that Smith had been asked to leave after slapping Chris Rock, and then there were discussions of having him physically removed.",
+      "url": "https://www.nytimes.com/2022/04/01/movies/oscars-will-smith-slap.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/04/01/multimedia/01slap-folo1/01slap-folo1-facebookJumbo-v2.jpg",
+      "publishedAt": "2022-04-01T13:57:31Z",
+      "content": "Both on Sunday night and in subsequent interviews this week, the Los Angeles police have maintained that Mr. Smiths slap qualified as misdemeanor battery under California law and that as a misdemeano… [+1409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jessica Dickler",
+      "title": "Biden’s plan to bring down gas prices could take weeks. Here’s how to get relief now - CNBC",
+      "description": "The White House has a plan to help cut gas prices, but it could be weeks before we're back below $4 a gallon. Here's how to save money in the meantime.",
+      "url": "https://www.cnbc.com/2022/04/01/bidens-plan-to-lower-gas-prices-could-take-weeks-how-to-pay-less-now.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107027995-1646861111818-gettyimages-1383112533-dscf2782_2022030830815742.jpeg?v=1646861284&w=1920&h=1080",
+      "publishedAt": "2022-04-01T13:39:58Z",
+      "content": "Filling up at the pump comes with a hefty dose of sticker shock.\r\nRussia's invasion of Ukraine and global supply concerns have sent gas prices to record highs hitting $6 in some parts of the country.… [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jake Kwon, Masha Angelova and Uliana Pavlova, CNN",
+      "title": "Russia accuses Ukraine of helicopter strikes on fuel depot in Russian territory - CNN",
+      "description": "Russia accused Ukraine of mounting a helicopter attack on a fuel depot inside Russian territory Friday, as footage surfaced of the facility engulfed in flames.",
+      "url": "https://www.cnn.com/2022/04/01/europe/russia-ukraine-belgorod-fire-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220401115057-03-russia-ukraine-belgorod-attack-super-tease.jpg",
+      "publishedAt": "2022-04-01T13:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jenna Lemoncelli",
+      "title": "Bruce Arians called out Mike Florio to end Buccaneers press conference - New York Post ",
+      "description": "Bruce Arians spoke to reporters Thursday in a farewell press conference after announcing his surprise retirement as coach of the Buccaneers, and ended the media session with a zinger aimed right at…",
+      "url": "https://nypost.com/2022/04/01/bruce-arians-calls-out-mike-florio-in-bucs-press-conference/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/newspress-collage-21741364-1648817245264.png?w=1024",
+      "publishedAt": "2022-04-01T13:15:00Z",
+      "content": "Mic drop. \r\nBruce Arians spoke to reporters Thursday in a farewell press conference after announcing his surprise retirement as coach of the Buccaneers, and ended the media session with a zinger aime… [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Deliberate infection trial finds COVID symptoms don't indicate viral shedding - Reuters",
+      "description": "The world's first \"human challenge\" trial in which volunteers were deliberately exposed to the coronavirus has found that symptoms had no effect on how likely an infected person is to pass the disease on to others.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deliberate-infection-trial-finds-symptoms-dont-indicate-viral-shedding-2022-04-01/",
+      "urlToImage": "https://www.reuters.com/resizer/KSbSxIRCDK_LSqJcUyraQ3m1VwM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PL5C564OSZP7RA45K7JBH2FYYQ.jpg",
+      "publishedAt": "2022-04-01T13:08:00Z",
+      "content": "April 1 (Reuters) - The world's first \"human challenge\" trial in which volunteers were deliberately exposed to the coronavirus has found that symptoms had no effect on how likely an infected person i… [+1572 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Pope Francis apologises for ‘deplorable’ residential school abuse - Al Jazeera English",
+      "description": "Indigenous leaders welcome papal apology as ‘long overdue’, but say it is only a first step in the path to justice.",
+      "url": "https://www.aljazeera.com/news/2022/4/1/pope-francis-apologises-for-deplorable-residential-school-abuse",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/2022-04-01T121607Z_1394638791_RC2CET90H68X_RTRMADP_3_CANADA-INDIGENOUS-VATICAN.jpg?resize=1200%2C630",
+      "publishedAt": "2022-04-01T12:59:17Z",
+      "content": "Warning: The story below contains details of residential schools that may be upsetting. Canadas Indian Residential School Survivors and Family Crisis Line is available 24 hours a day at 1-866-925-441… [+5516 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "The Associated Press",
+      "title": "Live updates | Officials: besieged Ukraine city is cut off - The Associated Press",
+      "description": "LVIV, Ukraine — Talks between Russia and Ukraine have resumed via video link. Russian delegation head Vladimir Medinsky published a picture of the talks under way Friday. Ukrainian President Volodymyr Zelenskyy’s office confirmed to The Associated Press that …",
+      "url": "https://apnews.com/article/russia-ukraine-business-europe-japan-poland-8b1d6dc3150020709de3bb07f798d716",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/348e113182ce44b7808b2fad2e1a67e5/3000.jpeg",
+      "publishedAt": "2022-04-01T12:42:07Z",
+      "content": "LVIV, Ukraine Talks between Russia and Ukraine have resumed via video link.\r\nRussian delegation head Vladimir Medinsky published a picture of the talks under way Friday. Ukrainian President Volodymyr… [+12901 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MICHELLE CHAPMAN AP Business Writer",
+      "title": "GameStop is surging again on first stock split in 15 years - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/Technology/wireStory/gamestop-surging-stock-split-15-years-83808600",
+      "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_380c341ade9547eea8c81f87185ec516_16x9_992.jpg",
+      "publishedAt": "2022-04-01T12:41:10Z",
+      "content": "Shares of GameStop surged Friday after the video game retailer announced that it would attempt its first stock split in 15 years.\r\nThe Grapevine, Texas, company said in a regulatory filing late Thurs… [+2020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Whitten",
+      "title": "Spider-Man spin-off 'Morbius' with Jared Leto is 'lazy,' 'not good' and 'totally skippable,' critics say - CNBC",
+      "description": "\"Morbius,\" which debuts Friday, has garnered poor reviews across the board and recently held at 16% on Rotten Tomatoes.",
+      "url": "https://www.cnbc.com/2022/04/01/morbius-reviews-spider-man-spin-off-is-bad.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107040145-1648790232945-Morbius-featured_Cropped.jpg?v=1648790277&w=1920&h=1080",
+      "publishedAt": "2022-04-01T12:30:46Z",
+      "content": "Jared Leto stars as Michael Morbius in Sony's \"Morbius.\"\r\nIt's never a good sign when a critic says your movie could have been \"better summed up in a two-minute trailer,\" but, alas, that is the case … [+7104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Talmon Joseph Smith",
+      "title": "March 2022 Jobs Report Shows Strong Gains: Live Updates - The New York Times",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2022/04/01/business/march-2022-jobs-report",
+      "urlToImage": "https://static01.nyt.com/images/2022/04/01/business/01economy-briefing-jobs/01economy-briefing-jobs-facebookJumbo.jpg",
+      "publishedAt": "2022-04-01T12:22:30Z",
+      "content": "Monthly change in jobs\r\nMar. 21\r\nJune\r\nSept.\r\nDec.\r\nMar.\r\n+431,000\r\nData is seasonally adjusted.\r\nSource: Bureau of Labor Statistics\r\nBy Ella Koeze\r\nA continued torrent of consumer demand, paired wit… [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Alyssa Norwin",
+      "title": "Bruce Willis’ Wife Emma Thanks Fans For ‘Love & Compassion’ After Actor’s Aphasia Diagnosis - HollywoodLife",
+      "description": "One day after Bruce Willis' family revealed that the actor had been diagnosed with aphasia, his wife, Emma Heming, shared a new message about how 'grateful' she is for the love and support from fans.",
+      "url": "https://hollywoodlife.com/2022/04/01/emma-heming-bruce-willis-aphasia-diagnosis-reaction-message/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/04/bruce-willis-wife-emma-thanks-fans-ftr.jpg",
+      "publishedAt": "2022-04-01T12:09:06Z",
+      "content": "One day after Bruce Willis’ family revealed that the actor had been diagnosed with aphasia, his wife, Emma Heming, shared a new message about how ‘grateful’ she is for the love and support from fans.… [+2165 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Twitter explores letting two accounts co-author a tweet - The Verge",
+      "description": "Twitter has confirmed it’s “exploring” a new feature that would allow a single tweet to be posted by two separate accounts. The tweet would carry both accounts’ names and profile pictures, and appear to both their followers.",
+      "url": "https://www.theverge.com/2022/4/1/23006050/twitter-co-author-tweets-experiment",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/iNfyVuVNiHtceSkMgJD4xDPdrh0=/0x89:1242x739/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23359946/FMaEEKZXEAAm8Nf.jpg",
+      "publishedAt": "2022-04-01T11:39:28Z",
+      "content": "Brand partnerships ahoy\r\nAn example of what a co-authored tweet could look (though, confusingly, in this example both accounts are the same).\r\nImage: Alessandro Paluzzi / Twitter\r\nTwitter has confirm… [+1390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Harry Styles put his god daughter in As It Was for the cutest reason | Heart - Heart",
+      "description": "Harry is back! He tells us all about his new music with Harry's House, his new single As It Was and what we can all expect from his Coachella debut...#HarryS...",
+      "url": "https://www.youtube.com/watch?v=QtNsvwYXA2k",
+      "urlToImage": "https://i.ytimg.com/vi/QtNsvwYXA2k/hqdefault.jpg",
+      "publishedAt": "2022-04-01T11:21:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Surging fuel and food prices send eurozone inflation to new high of 7.5% - Financial Times",
+      "description": "Record rate for bloc increases pressure on European Central Bank to raise interest rates",
+      "url": "https://www.ft.com/content/6fc23069-6184-4a29-9691-130c83d29349",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e1bff08-1675-4735-9029-626c38a916bb.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-04-01T11:09:14Z",
+      "content": "Consumer prices in the eurozone rose by a record 7.5 per cent in March from a year ago, piling pressure on the European Central Bank to tighten its ultra-loose monetary policy faster than planned.\r\nT… [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kyle Morris",
+      "title": "Not just Florida: States weigh bills banning gender ID and sexual orientation instruction - Fox News",
+      "description": "Florida Republicans have faced backlash for a measure that bans teachers from giving classroom instruction on \"sexual orientation\" or \"gender identity\" to elementary school children, but similar bills are being weighed and implemented in other states across t…",
+      "url": "https://www.foxnews.com/politics/states-weigh-measures-preventing-gender-identity-sexual-orientation-discussions-schools",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/GettyImages-1239533178.jpg",
+      "publishedAt": "2022-04-01T11:05:33Z",
+      "content": "Florida\r\n Republicans have faced backlash for a measure that bans teachers from giving classroom instruction on \"sexual orientation\" or \"gender identity\" to elementary school children, but similar bi… [+4815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "author": "Kevin Hanson",
+      "title": "2022 NFL Mock Draft 3.0: Big Trades Shake Up the Draft Order - Sports Illustrated",
+      "description": "Our latest projection includes five deals, in additional to all the picks that already changed hands in blockbusters for Russell Wilson, Davante Adams and Tyreek Hill.",
+      "url": "https://www.si.com/nfl/2022/04/01/mock-draft-trades-after-free-agency",
+      "urlToImage": "https://www.si.com/.image/t_share/MTg4NDY2MDgzMzc4NzY3ODE5/nfl-mock-draft-three-willis-pickett-corral.jpg",
+      "publishedAt": "2022-04-01T11:00:00Z",
+      "content": "Since my last mock draft, posted right before the start of free agency, three more teams have traded away their first-round picks in the 2022 draft.\r\nBlockbuster trades have led to new homes for Desh… [+22063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "WSOCTV.com News Staff",
+      "title": "12-year-old student shot, killed by another student at SC middle school, sheriff says - WSOC Charlotte",
+      "description": "The shooter was found hiding under a deck at a home not far from Tanglewood Middle School in Greenville.",
+      "url": "https://www.wsoctv.com/news/local/teen-custody-after-allegedly-shooting-student-sc-middle-school-officials-say/S22UVC5IU5GXZEYHKUM7XYBCEQ/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/6422L08fCfyDFNBRsSTgPueySjo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/DTP2REBUQBEQRBXNIOBCFSTHOM.jpeg",
+      "publishedAt": "2022-04-01T10:46:35Z",
+      "content": "GREENVILLE, S.C. — A 12-year-old student was shot and killed Thursday by another 12-year-old student inside their South Carolina middle school, authorities said. The shooter is in custody.\r\nThe shoot… [+2412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Jason R. Wilson",
+      "title": "Intel Arc A370M Slower Than AMD Radeon RX 6500M While Arc A350M On Par With GTX 1650 In Gaming Benchmarks - Wccftech",
+      "description": "Intel's entry-level Arc A370M & A350M GPU benchmarks have leaked out in a variety of games and synthetic workloads prior to launch.",
+      "url": "https://wccftech.com/intel-arc-a370m-slower-than-amd-rx-6500m-a350m-on-par-nvidia-gtx-1650-gpus-gaming-benchmarks-leak/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/03/ACM-G11-Black-Top-scaled.jpg",
+      "publishedAt": "2022-04-01T10:08:41Z",
+      "content": "Intel launched the ARC Alchemist family of discrete gaming GPUs for the mobility segment, mainly the Arc A370M &amp; the Arc A350M. We are now beginning to see benchmark testing of some of the introd… [+4712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Detroit Free Press"
+      },
+      "author": "Emma Stein, Detroit Free Press",
+      "title": "1950 census release is a 'genealogy goldmine,' can fill gaps in family trees - Detroit Free Press",
+      "description": "Most census data we have is just statistics. This release includes personal information, including names and addresses.",
+      "url": "https://www.freep.com/story/news/local/michigan/2022/04/01/1950-census-release-date-ancestry-genealogy/7231658001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/24/PSPR/0b05871d-a42e-423b-90f6-a46a11764a67-machines_1950.jpg?auto=webp&crop=2804,1578,x0,y305&format=pjpg&width=1200",
+      "publishedAt": "2022-04-01T10:02:00Z",
+      "content": "Seventy-two years ago, someone knocked on your ancestor's door and asked them a series of questions. Friday, all of that information will be at your fingertips.\r\nSo break out the family tree and prep… [+3566 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Apple's latest iOS and macOS updates patch two zero-day vulnerabilities - Engadget",
+      "description": "iOS 15.4.1 also fixes a battery drain issue..",
+      "url": "https://www.engadget.com/apples-ios-mac-os-update-patches-two-zero-day-vulnerabilities-094010389.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-images/2019-12/44e88ce0-1da2-11ea-9fcd-d696d06accec",
+      "publishedAt": "2022-04-01T09:41:02Z",
+      "content": "Apple has rolled out updates for its mobile, tablet and desktop operating systems, and they come with a fix for two zero-day vulnerabilities. As Ars Technica notes, the bugs can give bad actors acces… [+1251 chars]"
+    }
+  ]
+}
