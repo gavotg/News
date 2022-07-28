@@ -10,16 +10,15 @@ class ArticleMapper @Inject constructor(
     private val urlSanitise: UrlSanitise
 ) {
     operator fun invoke(network: List<NewsResponse.Articles>): List<Article> =
-        network.filter { it.title != null }
-            .map { result ->
-                logger.log("B4: " + result.urlToImage.orEmpty())
-                logger.log("AF: " + urlSanitise(result.urlToImage))
-                Article(
-                    title = result.title.orEmpty(),
-                    imageUrl = urlSanitise(result.urlToImage),
-                    date = result.publishedAt.orEmpty(),
-                    source = result.source?.name.orEmpty(),
-                    url = result.url.orEmpty(),
-                )
-            }
+        network.map { result ->
+            logger.log("B4: " + result.urlToImage.orEmpty())
+            logger.log("AF: " + urlSanitise(result.urlToImage))
+            Article(
+                title = result.author.orEmpty(),
+                imageUrl = urlSanitise(result.urlToImage),
+                date = result.publishedAt.orEmpty(),
+                source = result.source?.Name.orEmpty(),
+                url = result.url.orEmpty()
+            )
+        }
 }

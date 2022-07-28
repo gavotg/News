@@ -45,12 +45,13 @@ fun HeaderView() {
                     modifier = Modifier.padding(12.dp, 0.dp, 0.dp, 0.dp),
                     text = stringResource(R.string.app_name),
                     color = colors.primary,
-                    style = typography.h1,
+                    style = typography.h1
                 )
             }
             Text(
                 text = SimpleDateFormat(
-                    "d MMMM yyyy HH:mm", Locale.getDefault()
+                    "d MMMM yyyy HH:mm",
+                    Locale.getDefault()
                 ).format(Date())
                     .toString(),
                 style = typography.subtitle1,

@@ -8,7 +8,7 @@ class NewsResponse(
 ) {
     @Keep
     class Articles(
-        val title: String?,
+        val author: String?,
         val urlToImage: String?,
         val source: Source?,
         val publishedAt: String?,
@@ -17,6 +17,6 @@ class NewsResponse(
 
     @Keep
     class Source(
-        val name: String?
+        val Name: String?
     )
 }

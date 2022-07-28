@@ -23,7 +23,8 @@ import news.R
 fun ArticleView(article: Article, onItemClick: ((String) -> Unit)) {
     Card(
         modifier = Modifier
-            .clickable(onClick = { onItemClick(article.url) }),
+            .clickable(onClick = { onItemClick(article.url) })
+            .fillMaxWidth(),
         elevation = 2.dp,
         backgroundColor = colors.surface
     ) {
@@ -35,7 +36,7 @@ fun ArticleView(article: Article, onItemClick: ((String) -> Unit)) {
             ) {
                 Text(
                     text = article.title,
-                    style = typography.subtitle1,
+                    style = typography.subtitle1
                 )
                 Text(
                     text = article.source,
@@ -44,7 +45,7 @@ fun ArticleView(article: Article, onItemClick: ((String) -> Unit)) {
                 )
                 Text(
                     text = article.date.relativeTime(),
-                    style = typography.caption,
+                    style = typography.caption
                 )
             }
         }
@@ -66,7 +67,7 @@ fun ImageView(item: String) {
                     crossfade(true)
                 }
             ),
-            contentDescription = null,
+            contentDescription = null
         )
     } else {
         Image(
